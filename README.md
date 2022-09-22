@@ -43,3 +43,5 @@ In this class you will learn to layout a page using CSS and HTML with a given a 
 1. What are block level elements?
 
 1. To use CSS flex, the parent element (container) must have the `display` property set to what value?
+
+<!-- new branch 8 -->
